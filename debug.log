@@ -1,0 +1,1 @@
+[0411/224425.557:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\AMAR\AppData\Roaming\Brackets\live-dev-profile\Crashpad\reports\900d4b37-9605-40a4-bf25-28c3df1b016a.dmp: The process cannot access the file because it is being used by another process. (0x20)
